@@ -1,0 +1,31 @@
+
+Week 1 Completed - Exploratory Data Analysis (EDA) with DecodeLab
+This week focused on Exploratory Data Analysis (EDA), one of the most important stages in any data analytics project. The goal was to understand, clean, validate, and structure raw business data before analysis.
+
+Some of the key tasks I accomplished include:
+- Structured the dataset properly
+- Checked rows and columns for data understanding
+- Imported and cleaned data using Excel Power Query
+- Performed data validation and corrected data types
+- Confirmed zero duplicate records
+- Identified missing values only in the CouponCode column (1197/1200 missing values) and handled them using Fill Down due to the dataset’s time-series structure
+- Checked for outliers and confirmed zero outliers
+- Identified that the dataset was a flat table and redesigned it into a proper data model containing:
+          ` 2 Dimension Tables (Customer & Order)
+          `1 Fact Table (Sales)
+
+
+Beyond cleaning, I also carried out EDA analytics such as:
+📊 Statistical summaries
+📈 Trend and pattern identification
+💳 Payment behavior analysis
+🛒 Product performance analysis
+📦 Order status analysis
+📅 Seasonal sales trend analysis
+👥Customer behavior insights
+
+This project strengthened my understanding of data cleaning, data modeling, and business-driven analysis using Excel and Power Query.
+Grateful to DecodeLab for the learning experience. More analytics projects ahead!
+
+https://www.linkedin.com/posts/chukwudi-onwusa-b570a7279_week-1-completed-exploratory-data-analysis-ugcPost-7466157924151607296-v7qA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPSr7MB0Yc9n40U0j0Q0N4W8W5sFP4T4N4
+
